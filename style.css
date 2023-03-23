@@ -1,0 +1,41 @@
+
+body {
+    background-color: lightgrey;
+}
+h1 {color: green; 
+    font-size: 70px;
+ }
+h2 {color: green;
+font-size: 50px;
+font-style: oblique;
+}
+.p {
+    font-size: 35px;
+}
+.Trybe {
+    color: green;
+    font-style: oblique;
+}
+.um-pouco {
+    color: green;
+    font-style: oblique;
+    font-size: 30px;
+}
+.hab {
+    color: green;
+    font-style: oblique;
+    font-size: 40px;
+}
+.faci {
+    font-size: 35px;
+}
+
+.apren {
+    font-size: 30px;
+}
+.trab {
+font-size: 25px;
+}
+.raci {
+font-size: 20px;
+}
